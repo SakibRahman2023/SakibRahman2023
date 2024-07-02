@@ -15,7 +15,7 @@
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **sakibrahman5109@gmail.com**
-  <h3 align="left">About Me:</h3>
+<h3 align="left">About Me:</h3>
   <p>Hi, I'm Sakib Rahman, a frontend web developer currently studying Computer Science and Engineering at RMSTU. <br> I have a strong command of <b>HTML, CSS,</b> and <b>React</b>, and I'm well-versed in <b>MongoDB</b> and <b>Firebase</b></p>
 
 <h3 align="left">Connect with me:</h3>
